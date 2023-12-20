@@ -32,4 +32,4 @@ S → λ | opmul TERMO</br>
 FAT → id | cte | abrepar EXPR fechapar | true | false | opneg FAT}</br>
 </br>
 Mais informações de toda a implementação na descrição de cada Compiçador nos PDFs presentes no repositório principal.</br>
-Cada compilador possui sua própria documentação anexada em seus respectivo diretório.
+Cada compilador possui sua própria documentação anexada em seus respectivos diretórios.
